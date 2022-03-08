@@ -1,0 +1,50 @@
+<!–- -–> commenting out parts of HTML
+<abbr> Abbr is an abbreviation for abbreviation. Use it with the title attribute to define abbreviations. 
+<address> Contact information for the author. Alternatively, this could be general contact information for the website.
+<base> Use to set a base URL.
+<blockquote> For quoting from an external source. Typically rendered as indented text.
+<body> Establishes the body of an HTML document.
+<br> Single line break. Think of br as short for break.
+<button> Specifies button that can be clicked. Commonly used with forms..
+<caption> Placed just after <table>, used for table caption.
+<cite> For citing.
+<col> Specify properties of a <col> within a <colgroup>
+<colgroup> Essentially a group of columns
+<del> Mark text as deleted without actually deleting it. This will typically be rendered as a strikethrough.
+<dialog> Dialog box.
+<dl> Description list. Use with <dd> and <dt>.
+<dt> Description list. Use with and <dl>.
+<em> Emphasis, which I believe often defaults to italics. For something stronger, use <strong>.
+<embed> New in HTML5. A container for external content.
+<figure> Define self contained content such as photos or diagrams.
+<footer> The footer of a document, below the main content.
+<form> Forms for user input
+<hgroup> Used for grouping <h1>, <h2>, <h3>, etc., tags together. Useful for multilevel headings.
+<tbody> Groups table rows.
+<td> Table data; this represents a data cell within a table.
+<template> Declares HTML snippets that can be used later.
+<textarea> For multi-line text entry.
+<tfoot> Table footer.
+<!DOCTYPE html> Basically tells the browser what kind of document we're loading.
+<head> The head section. Used mostly for metadata.
+<header> Not to be confused with <head>, <header> typically contains introductory content and layout that goes above the body.
+<li> This represents a list item with an <ol> (ordered list) or <ul> (unordered list).
+<link> Used for linking to external resources. Typically seen in <head> referring to an external style sheet. Different from the <a> (anchor) tag.
+<nav> Used for specifying a navigational region within a document.
+<noscript> used for specifying content that should be rendered when scripting isn’t supported for people using script within the content.
+<object> For embedding objects within a document.
+<ol> Ordered list (1. 2. 3.). Use with list item <li>.
+<p> Paragraph. Enclose paragraphs in an article within <p> tags.
+<param> Useful when parameters need to be passed to an object embedded within the document.
+<q> Quote from some source.
+<script> Scripts inside of an HTML document are enclosed in the script tags.
+<section> A nonspecific means of breaking up content within a webpage into sections.
+<span> Useful for applying styles to or around text, especially inline.
+<strong> The enclosed text is of strong importance.
+<style> For declaring style sheets within a document.
+<ul> Unordered list. Use with <li> (list item) to make unordered lists.
+<var> Defines a variable within the content of an HTML page.
+<video> For embedding video within an HTML page.
+<time> Specifies the date/time within a document.
+<title> The title of an HTML document.
+<img> For displaying images on a webpage. Example: <img src="image.png">
